@@ -1,0 +1,6 @@
+country,n_obs,first_year,last_year,test_n,model_final,exogenous
+Bangladesh,32,1990,2021,5,arimax_exo,TRUE
+Bhutan,32,1990,2021,5,arimax_exo,TRUE
+India,32,1990,2021,5,arimax_exo,TRUE
+Nepal,32,1990,2021,5,arimax_exo,TRUE
+Pakistan,32,1990,2021,5,arimax_exo,TRUE

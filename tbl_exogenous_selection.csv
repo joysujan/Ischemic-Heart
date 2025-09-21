@@ -1,0 +1,6 @@
+country,exo_vars,exo_pass,exo_MASE,exo_RMSE,exo_MAE,lb_pvalue,improve_pct
+Bangladesh,tobacco,yes,0.186,0.402,0.4,0.582,74.4
+Bhutan,dietary_risks + metabolic_risks,yes,0.037,0.034,0.029,0.86,91.7
+India,dietary_risks + metabolic_risks,yes,0.033,0.109,0.094,0.751,98.4
+Nepal,dietary_risks,yes,0.238,0.425,0.364,0.913,76.1
+Pakistan,dietary_risks + metabolic_risks,yes,0.034,0.09,0.072,0.18,99.3

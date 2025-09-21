@@ -1,0 +1,6 @@
+country,model_final,exogenous,exo_vars,MASE_robust,RMSE,MAE
+Bangladesh,arimax_exo,yes,NA,0.724,1.768,1.56
+Bhutan,arimax_exo,yes,NA,0.454,0.447,0.345
+India,arimax_exo,yes,NA,1.832,5.305,5.198
+Nepal,arimax_exo,yes,NA,0.997,1.814,1.525
+Pakistan,arimax_exo,yes,NA,3.757,8.085,7.868
