@@ -1,0 +1,6 @@
+country,best_mae_model,best_rmse_model,best_mase_model
+Bangladesh,linear,linear,linear
+Bhutan,arimax_full,arimax_full,arimax_full
+India,arimax_full,arimax_full,arimax_full
+Nepal,arimax_full,arimax_full,arimax_full
+Pakistan,arimax_full,arimax_full,arimax_full
